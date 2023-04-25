@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="PersonalData.fs" />
+    <Compile Include="WeatherForecast.fs" />
+    <Compile Include="Controllers\PutTester.fs" />
+    <Compile Include="Controllers\PostTester.fs" />
+    <Compile Include="Controllers\GetTester.fs" />
+    <Compile Include="Controllers/WeatherForecastController.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

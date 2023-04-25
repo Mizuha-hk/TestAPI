@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CloudServiceTestAPI", "CloudServiceTestAPI\CloudServiceTestAPI.fsproj", "{6368035B-3F53-4113-A3A2-EABAD50644AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6368035B-3F53-4113-A3A2-EABAD50644AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6368035B-3F53-4113-A3A2-EABAD50644AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6368035B-3F53-4113-A3A2-EABAD50644AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6368035B-3F53-4113-A3A2-EABAD50644AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074E14BE-B4E5-4562-A4C1-1B70BFD75C30}
+	EndGlobalSection
+EndGlobal
